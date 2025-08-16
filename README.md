@@ -19,7 +19,7 @@ I did'nt compile it. Add all files to your IDE to develop or test the modified g
 * Java runtime installed
 
 #### How to play the game:
-* Just download the SnakeGame.jar file
+* Compile it in your IDE
 * Run it
 * Start playing with the arrows keys
 * If you lose, just close it and re-open it (I will add a restart button possibly)
